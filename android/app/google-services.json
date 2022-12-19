@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982587602663",
+    "project_id": "testzetabox",
+    "storage_bucket": "testzetabox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982587602663:android:9a678fa892db81f96a1442",
+        "android_client_info": {
+          "package_name": "com.example.tutoriverpod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982587602663-fph5vfuuhasrs4u5cuq67m5g350pvgar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJdY-4WleQZgWLAoMTEqaYoJMfESIIbQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982587602663-fph5vfuuhasrs4u5cuq67m5g350pvgar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
